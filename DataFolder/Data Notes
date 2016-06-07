@@ -1,1 +1,6 @@
-This is for the new data from the queens xls file. 
+Data files
+  
+    - rollingsales_queens.xls:  original file from website
+    - rollingsales_queens.csv:  Excel file converted to a csv file format
+    - rollingsales_queens_tidy.csv: Output file after cleaning data.
+    - R_rollingsales_queens.r:  Code used to clean data.  pretty much the same as the txt file from class. 
